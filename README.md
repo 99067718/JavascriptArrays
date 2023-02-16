@@ -1,1 +1,1 @@
-# This is a school thingy I guess ¯\_(ツ)_/¯ #
+# This is a school thingy I guess ¯\\_(ツ)_/¯ #
