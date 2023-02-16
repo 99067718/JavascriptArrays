@@ -1,5 +1,5 @@
 // '|' means workday, '||' means weekend
-var Days = ["|Monday", "|Tuesday", "|Wednesday", "|Thursday", "|Friday", "||Saturday", "||Sunday","||Mario Dag"];
+var Days = ["|Maandag", "|Dinsdag", "|Woensdag", "|Donderdag", "|Vrijdag", "||Zaterdag", "||Zondag","||Extra dag"];
 var InversedDays = [...Days].reverse();
 
 for (i = 0; i < Days.length; i++){
