@@ -1,4 +1,4 @@
-var numbers = [1, 2, 3, 4, 5, 23082345678998765432389123]
+var numbers = [1, 2, 3, 4, 5, 23089123]
 var MainDiv = document.getElementById("Main")
 for (i = 0; i < numbers.length; i++){
     var newDiv = document.createElement("div")
